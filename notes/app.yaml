@@ -1,4 +1,4 @@
-version: janamou-notes
+version: janamou-notes-test
 runtime: custom
 vm: true
 api_version: 1
