@@ -1,4 +1,4 @@
-# Don’t commit the following directories created by pub.
+﻿# Don’t commit the following directories created by pub.
 build/
 packages/
 .buildlog
@@ -12,3 +12,5 @@ packages/
 
 # Include when developing application packages.
 pubspec.lock
+
+.pub
